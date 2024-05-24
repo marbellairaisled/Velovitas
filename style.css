@@ -1,14 +1,14 @@
-/*
-Theme Name: Velovita's Theme
-Theme URI: https://maroon-caterpillar-545695.hostingersite.com/
-Author: Marbella Irais Ledesma
-Description: Custom WordPress theme.
-Version: 1.0
-License: GNU General Public License v2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: velovitatheme
-Tags: custom-theme, responsive, bootstrap, sass
-*/
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Can't find stylesheet to import.\a    \2577 \a 10 \2502  @import \"node_modules/bootstrap/scss/bootstrap/bootstrap.scss\";\d\a    \2502          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a    \2575 \a   style.scss 10:9  root stylesheet";
+}
 
 
 h2 {

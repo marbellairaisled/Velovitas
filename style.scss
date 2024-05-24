@@ -1,0 +1,23 @@
+/*
+Theme Name: Velovita’s 
+Author: Your Name
+Description: A custom WordPress theme for Velovita’s Wordpress Technical Test - Gara Group
+Version: 1.0
+*/
+
+// sass/style.scss
+
+
+
+$font-stack: Monteserrat;
+$primary-color: #DF703D;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+.h1 {
+    color: $primary-color;
+}
+

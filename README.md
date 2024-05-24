@@ -6,7 +6,7 @@ You can see the landingpage here: https://maroon-caterpillar-545695.hostingersit
 This is a custom WordPress theme built for Velovita, following their brand guidelines and design specifications. The theme includes features such as custom post types, a contact form for inquiries, and responsive layout.
 
 ## Installation
-1. Extract the contents of the zip file to your local machine.
+1. Extract the contents of the zip file to your local machine velovitatheme.zip (this contains all the sass, node_modules and images folders)
 2. Set up a local server environment using XAMPP, MAMP, or similar.
 3. Create a new database for WordPress.
 4. Copy the theme folder to the `wp-content/themes` directory of your WordPress installation.
